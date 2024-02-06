@@ -1,0 +1,45 @@
+21:00:58.204 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:01:03.688 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:01:03.695 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:01:03.703 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:02:07.540 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2303475\eclipse-workspace\opencart_Framework_project\DDT_Execution.xml"
+21:02:08.766 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2303475\eclipse-workspace\opencart_Framework_project\DDT_Execution.xml
+
+21:02:39.576 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:02:39.606 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:02:39.614 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:02:44.898 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:02:44.919 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:02:44.935 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:03:06.656 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2303475\eclipse-workspace\opencart_Framework_project\DDT_Execution.xml"
+21:03:09.859 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2303475\eclipse-workspace\opencart_Framework_project\DDT_Execution.xml
+
+21:03:34.005 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2303475\eclipse-workspace\opencart_Framework_project\DDT_Execution.xml"
+21:03:39.579 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2303475\eclipse-workspace\opencart_Framework_project\DDT_Execution.xml
+
+21:03:59.698 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:03:59.781 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:03:59.885 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:04:11.749 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:04:11.756 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:04:11.762 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:04:46.670 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:04:46.712 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:04:46.727 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:04:51.162 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:04:51.170 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:04:51.178 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:18:19.238 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2303475\eclipse-workspace\opencart_Framework_project\DDT_Execution.xml"
+21:18:20.348 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2303475\eclipse-workspace\opencart_Framework_project\DDT_Execution.xml
+
+21:18:38.359 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:18:38.375 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:18:38.382 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:18:41.206 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:18:41.209 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:18:41.213 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:20:34.755 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2303475\eclipse-workspace\opencart_Framework_project\master.xml"

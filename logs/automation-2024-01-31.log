@@ -1,0 +1,57 @@
+12:02:59.590 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2303475\eclipse-workspace\opencart_Framework_project\testng.xml"
+12:03:00.306 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2303475\eclipse-workspace\opencart_Framework_project\testng.xml
+
+12:03:33.518 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** starting the very account registration ***
+12:03:33.519 [main] DEBUG testCases.TC_001_AccountRegistrationTest - logs Application start...!
+12:03:52.682 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on my account
+12:03:52.961 [main] INFO  testCases.TC_001_AccountRegistrationTest - Generated the randome username/email id 
+12:03:53.219 [main] INFO  testCases.TC_001_AccountRegistrationTest - generated the randome password
+12:03:53.699 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on the button
+12:03:53.700 [main] DEBUG testCases.TC_001_AccountRegistrationTest - logs application end...
+12:03:53.700 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finish the 1st testcase***
+12:05:18.568 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2303475\eclipse-workspace\opencart_Framework_project\edgeExecution.xml"
+12:05:19.334 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2303475\eclipse-workspace\opencart_Framework_project\edgeExecution.xml
+
+12:05:47.483 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** starting the very account registration ***
+12:05:47.483 [main] DEBUG testCases.TC_001_AccountRegistrationTest - logs Application start...!
+12:05:49.818 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on my account
+12:05:50.052 [main] INFO  testCases.TC_001_AccountRegistrationTest - Generated the randome username/email id 
+12:05:50.225 [main] INFO  testCases.TC_001_AccountRegistrationTest - generated the randome password
+12:05:51.628 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on the button
+12:05:51.628 [main] DEBUG testCases.TC_001_AccountRegistrationTest - logs application end...
+12:05:51.629 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finish the 1st testcase***
+12:08:10.247 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2303475\eclipse-workspace\opencart_Framework_project\testng.xml"
+12:08:10.906 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2303475\eclipse-workspace\opencart_Framework_project\testng.xml
+
+12:10:00.480 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2303475\eclipse-workspace\opencart_Framework_project\testng.xml"
+12:10:01.165 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2303475\eclipse-workspace\opencart_Framework_project\testng.xml
+
+12:13:16.142 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2303475\eclipse-workspace\opencart_Framework_project\testng.xml"
+12:13:16.838 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2303475\eclipse-workspace\opencart_Framework_project\testng.xml
+
+12:16:24.340 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2303475\eclipse-workspace\opencart_Framework_project\edgeBrowser.xml"
+12:16:24.999 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2303475\eclipse-workspace\opencart_Framework_project\edgeBrowser.xml
+
+12:19:06.567 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2303475\eclipse-workspace\opencart_Framework_project\crossBrowserTest.xml"
+12:19:44.093 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2303475\eclipse-workspace\opencart_Framework_project\crossBrowserTest.xml"
+12:19:44.776 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2303475\eclipse-workspace\opencart_Framework_project\crossBrowserTest.xml
+
+12:20:43.967 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** starting the very account registration ***
+12:20:43.968 [main] DEBUG testCases.TC_001_AccountRegistrationTest - logs Application start...!
+12:21:22.916 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on my account
+12:21:23.161 [main] INFO  testCases.TC_001_AccountRegistrationTest - Generated the randome username/email id 
+12:21:23.335 [main] INFO  testCases.TC_001_AccountRegistrationTest - generated the randome password
+12:21:23.470 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on the button
+12:21:23.470 [main] DEBUG testCases.TC_001_AccountRegistrationTest - logs application end...
+12:21:23.470 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finish the 1st testcase***
+12:23:20.252 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** starting the very account registration ***
+12:23:20.253 [main] DEBUG testCases.TC_001_AccountRegistrationTest - logs Application start...!
+12:25:04.102 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on my account
+12:25:04.358 [main] INFO  testCases.TC_001_AccountRegistrationTest - Generated the randome username/email id 

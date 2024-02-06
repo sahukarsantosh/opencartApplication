@@ -1,0 +1,53 @@
+21:20:35.683 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2303475\eclipse-workspace\opencart_Framework_project\master.xml
+
+21:20:53.542 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** starting the very account registration ***
+21:20:53.542 [main] DEBUG testCases.TC_001_AccountRegistrationTest - logs Application start...!
+21:20:56.000 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on my account
+21:20:57.388 [main] INFO  testCases.TC_001_AccountRegistrationTest - Generated the randome username/email id 
+21:20:57.781 [main] INFO  testCases.TC_001_AccountRegistrationTest - generated the randome password
+21:20:58.013 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on the button
+21:20:58.014 [main] DEBUG testCases.TC_001_AccountRegistrationTest - logs application end...
+21:20:58.014 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finish the 1st testcase***
+21:21:28.456 [main] INFO  testCases.TC_002_AccountLoginTest - ***TC_002_AccountLoginTest is Started***
+21:21:28.458 [main] INFO  testCases.TC_002_AccountLoginTest - clicked on MyAccount
+21:21:31.577 [main] INFO  testCases.TC_002_AccountLoginTest - inserted the userID and password
+21:21:36.066 [main] INFO  testCases.TC_002_AccountLoginTest - login button clicked
+21:21:37.513 [main] INFO  testCases.TC_002_AccountLoginTest - Validation test passed
+21:21:40.718 [main] INFO  testCases.TC_002_AccountLoginTest - ****Finished the TC_002_AccountLoginTest****
+21:22:05.677 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:22:05.691 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:22:05.704 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:22:09.941 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:22:09.948 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:22:09.954 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:40:26.787 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2303475\eclipse-workspace\opencart_Framework_project\master2.xml"
+21:40:27.944 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2303475\eclipse-workspace\opencart_Framework_project\master2.xml
+
+21:40:43.689 [main] INFO  testCases.TC_002_AccountLoginTest - ***TC_002_AccountLoginTest is Started***
+21:40:43.858 [main] INFO  testCases.TC_002_AccountLoginTest - clicked on MyAccount
+21:40:47.326 [main] INFO  testCases.TC_002_AccountLoginTest - inserted the userID and password
+21:40:52.047 [main] INFO  testCases.TC_002_AccountLoginTest - login button clicked
+21:40:52.246 [main] INFO  testCases.TC_002_AccountLoginTest - Validation test passed
+21:40:55.986 [main] INFO  testCases.TC_002_AccountLoginTest - ****Finished the TC_002_AccountLoginTest****
+17:01:20.403 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2303475\eclipse-workspace\opencart_Framework_project\master2.xml"
+17:01:21.892 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2303475\eclipse-workspace\opencart_Framework_project\master2.xml
+
+17:01:46.984 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** starting the very account registration ***
+17:01:46.985 [main] DEBUG testCases.TC_001_AccountRegistrationTest - logs Application start...!
+17:01:52.241 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on my account
+17:01:52.723 [main] INFO  testCases.TC_001_AccountRegistrationTest - Generated the randome username/email id 
+17:01:54.624 [main] INFO  testCases.TC_001_AccountRegistrationTest - generated the randome password
+17:01:54.906 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on the button
+17:01:54.907 [main] DEBUG testCases.TC_001_AccountRegistrationTest - logs application end...
+17:01:54.907 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finish the 1st testcase***
+17:02:33.988 [main] INFO  testCases.TC_002_AccountLoginTest - ***TC_002_AccountLoginTest is Started***
+17:02:33.989 [main] INFO  testCases.TC_002_AccountLoginTest - clicked on MyAccount
+17:02:39.778 [main] INFO  testCases.TC_002_AccountLoginTest - inserted the userID and password
+17:02:47.821 [main] INFO  testCases.TC_002_AccountLoginTest - login button clicked
+17:02:54.618 [main] INFO  testCases.TC_002_AccountLoginTest - Validation test passed
+17:03:00.514 [main] INFO  testCases.TC_002_AccountLoginTest - ****Finished the TC_002_AccountLoginTest****
+12:25:21.058 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2303475\eclipse-workspace\opencart_Framework_project\master2.xml"
+12:26:10.275 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** starting the very account registration ***
